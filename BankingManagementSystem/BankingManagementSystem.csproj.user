@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountdataDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AddAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminNavigationpanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgentDashBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ChangePass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Deposit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionHistoryData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transfer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UpdateAcc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewAgent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Withdraw.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
